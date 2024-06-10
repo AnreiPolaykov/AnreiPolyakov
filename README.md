@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anrei Polakov
-- 👀 I’m interested in sport and learn
+- 👀 I’m interested in sport
 - 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
