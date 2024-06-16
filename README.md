@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anrei Polaykov
+- 👋 Hi, I’m @Anrei Polyakov
 - 👀 I’m interested in sport
 - 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on ...
