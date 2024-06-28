@@ -8,7 +8,9 @@ class House():
             print("Такого этажа не существует")
             return
         else:
-            print(list(range(1, new_floor + 1)))
+            new_floor_list = list(range(1, new_floor + 1))
+            for i in new_floor_list:
+                print(i)
 
 
 
